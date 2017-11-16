@@ -1,0 +1,70 @@
+html, body
+{
+    height:100%;
+}
+/*body
+{
+    background-image: url("../img/vegetables.png");
+    text-align: center;
+    background-repeat:no-repeat;
+}*/
+#navr
+{
+ margin-top:5px;
+
+}
+#navr a
+{
+  background-color:rgb(169,169,169);
+  text-decoration: none;
+  border: 3px solid;
+  float:right;
+  font-size:20px;
+}
+#banner
+{
+    height:100px;
+    width:100%;
+    background-color: #dff442;
+    margin-top:40px;
+    
+}
+.title
+{
+ text-align:center;
+}
+#menutop
+{
+    height:50px;
+    width:100%;
+    background-color: #f45642;
+}
+#columnleft
+{
+    height:200px;
+    width:400px;
+    background-color:#41f47a; 
+    float:left;
+    
+}
+#columnright
+{
+   height:200px; 
+   width:400px;
+   background-color:#6b41f4;
+   float:right;
+ 
+}
+.content
+{
+     height:800px;
+     width:200px;
+     background-color:#9b41f;
+     position:fixed 800px;
+}
+ .footer
+ {
+     height:90px;
+     width:800px;
+     margin-bottom: 75%;
+}

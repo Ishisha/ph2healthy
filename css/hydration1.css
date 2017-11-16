@@ -1,0 +1,120 @@
+body
+{
+    font-family: 'Crimson text', san serif;
+    background:#8cb9e8 url("../img/cucumbers hydration.jpg");
+    background-size:600px;
+    font-size:25px;
+    color:rgb(66,134,244);
+    padding: 5px;
+    
+}
+#navr
+{
+ margin-top:5px;
+
+}
+#navr a
+{
+  background-color:rgb(169,169,169);
+  text-decoration: none;
+  border: 3px solid;
+  float:right;
+  font-size:20px;
+}
+ h1
+{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height:2px;
+    color:#fff;
+    margin: 0 0 10px 0;
+    
+}
+p
+{
+    margin: 0 0 19px 0;
+    padding-top: 10px;
+    height: inherit;
+    font-size:20px;
+}
+
+
+article
+{
+    height:10%;
+    margin-top:5%;
+    background-color: rgba(66,244,229,0.5);
+    color:blue;
+    text-align: center;
+}
+article p
+{
+    font-size: 20px;
+     color:blue;
+}
+section
+{
+    border:1px solid #fff;
+    background-color: rgb(66,244,229);
+    display: table;
+}
+section h2 
+{
+    font-family:San serif;
+    margin: 0  0 6px 0;
+    font-size: 20px;
+    color:#fff;
+}
+section p
+{
+    margin: 10px;
+    font-size: 15px;
+
+}
+
+section > div
+{
+   text-align:center;
+   display:table-row;
+}
+
+section div 
+{  
+    display: table-cell;
+    width: 40%;
+    padding:25px;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+section div div:first-child
+{
+    border-left:none;
+    
+}
+ section div: last-child div 
+{
+    border-bottom:none;
+    body {
+  margin:0;
+  padding:20px;
+}
+.quiz {
+  padding:0 30px 20px 30px;
+  max-width:960px;
+  margin:0 auto;
+  
+  ul {
+    list-style:none;
+    padding:0;
+    margin:0;
+  }
+
+
+
+
+
+  
+    
+    
+    
